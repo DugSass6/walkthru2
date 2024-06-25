@@ -1,2 +1,8 @@
 # walkthru2
-Sample report for walkthru2 of fast.ai course
+
+## Introduction
+Sample repo for walkthru2 of fast.ai course
+
+## More Details
+-blah
+-blah
